@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="TrabajadoresSPEntities-Web.config Connection String" description="TrabajadoresSPEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Model.Model1.csdl|res://*/Model.Model1.ssdl|res://*/Model.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=o9x3g13sfg.database.windows.net;initial catalog=TrabajadoresSP;user id=administronacho;password=Curso02015;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\ericame\\documents\\visual\ studio\ 2015\\Projects\\WcfEmpleados\\WcfEmpleados\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TrabajadoresSPEntities']/@connectionString" />
+  </parameter>
+</parameters>
